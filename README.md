@@ -6,4 +6,5 @@
  (Sayangnya saya masih kurang berilmu untuk memperbaiki itu >x<)
  Screenshot juga disertakan di dalam repo.
  ![App Screenshot](https://github.com/QorryNezt/AplikasiPenghitungUmur/blob/master/Aplikasi%20Penghitung%20Umur%20Sample.png)
+ 
  Pertama kali menggunakan repository dengan sebenar-benarnya maklum berhambur >_<
